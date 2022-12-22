@@ -1,7 +1,7 @@
 {
-	"name": "cogo-toast",
+	"name": "@andfaulkner/cogo-toast",
 	"description": "Beautiful, Zero Configuration, Toast Messages - Built with React",
-	"version": "4.2.4",
+	"version": "4.3.0",
 	"license": "MIT",
 	"scripts": {
 		"setup": "yarn install && cd docs && yarn install",
@@ -18,9 +18,9 @@
 		"deploy": "gh-pages -t -d docs/out"
 	},
 	"peerDependencies": {
-		"prop-types": "^15.6.2",
-		"react": "^16.8.0 || ^17.0.0",
-		"react-dom": "^16.8.0 || ^17.0.0"
+		"prop-types": "^15.6.2 || ^15.7.0",
+		"react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+		"react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "7.9.6",
