@@ -1,5 +1,10 @@
 ### Features
 
+- 4.3.0
+
+  - Get working with React 17 & 18 
+  - Rename to @andfaulkner/cogo-toast (for separate deployment)
+
 - 4.2.3
 
   - Fix: install error at 4.2.2. #53
