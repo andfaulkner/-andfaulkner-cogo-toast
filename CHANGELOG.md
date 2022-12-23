@@ -1,5 +1,9 @@
 ### Features
 
+- 4.3.1
+
+  - Fix yarn-installed packages
+
 - 4.3.0
 
   - Get working with React 17 & 18 
